@@ -2,7 +2,7 @@
 <component type="desktop">
   <id>com.endlessnetwork.dragonsapprentice</id>
   <name>Dragon’s Apprentice</name>
-  <developer_name>Endless network</developer_name>
+  <developer_name>Endless Studios</developer_name>
   <summary>An RPG like puzzle solving dungeon crawling game, and more!</summary>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>LicenseRef-proprietary</project_license>
@@ -20,23 +20,23 @@
   </releases>
   <screenshots>
     <screenshot type="default">
-      <image type="source">https://github.com/endless-network/DragonsApprentice_Binary/raw/master/DA1-2.png</image>
+      <image type="source">https://github.com/endless-network/DragonsApprentice_Binary/raw/master/DA5.jpg</image>
       <caption>Experience Ovun’s Historia.</caption>
     </screenshot>
     <screenshot>
-      <image type="source">https://github.com/endless-network/DragonsApprentice_Binary/raw/master/DA_ss2.png</image>
+      <image type="source">https://github.com/endless-network/DragonsApprentice_Binary/raw/master/DA4.jpg</image>
       <caption>Epic adventure across dungeons.</caption>
     </screenshot>
     <screenshot>
-      <image type="source">https://github.com/endless-network/DragonsApprentice_Binary/raw/master/DA_ss3.png</image>
+      <image type="source">https://github.com/endless-network/DragonsApprentice_Binary/raw/master/DA3.png</image>
       <caption>Epic adventure.</caption>
     </screenshot>
     <screenshot>
-      <image type="source">https://github.com/endless-network/DragonsApprentice_Binary/raw/master/DA_ss4.png</image>
+      <image type="source">https://github.com/endless-network/DragonsApprentice_Binary/raw/master/DA2.png</image>
       <caption> </caption>
     </screenshot>
     <screenshot>
-      <image type="source">https://github.com/endless-network/DragonsApprentice_Binary/raw/master/DA_ss5.png</image>
+      <image type="source">https://github.com/endless-network/DragonsApprentice_Binary/raw/master/DA1.png</image>
       <caption> </caption>
     </screenshot>
   </screenshots>

@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<component type="desktop">
+<component type="desktop-application">
   <id>com.endlessnetwork.dragonsapprentice</id>
   <name>Dragon’s Apprentice</name>
-  <developer_name>Endless Studios</developer_name>
-  <summary>An RPG like puzzle solving dungeon crawling game, and more!</summary>
+  <developer id="com.endlessnetwork">
+    <name>Endless Studios</name>
+  </developer>
+  <summary>An RPG-like puzzle-solving dungeon-crawling game, and more!</summary>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>LicenseRef-proprietary</project_license>
   <categories>
-    <category>LearnToCode</category>
     <category>Game</category>
     <category>Education</category>
   </categories>
-  <url type="homepage">http://thethirdterminal.com</url>
+  <url type="homepage">https://endlessstudios.com</url>
   <launchable type="desktop-id">com.endlessnetwork.dragonsapprentice.desktop</launchable>
   <description>
     <p>An evil force has spread its way across the land of Ovun and is threatening to destroy this peaceful city. Be the hero that Ovun needs! Unlock the secrets of the hidden Dragon Temples and awaken the dragon, Dalfur. Only with this dragon will you defeat the evil Shadow Warlord and his minions, the Shadow Fiends.</p>
@@ -45,5 +46,4 @@
     <content_attribute id="violence-cartoon">moderate</content_attribute>
     <content_attribute id="violence-fantasy">moderate</content_attribute>
   </content_rating>
-  <update_contact>nan@endlessnetwork.com</update_contact>
 </component>

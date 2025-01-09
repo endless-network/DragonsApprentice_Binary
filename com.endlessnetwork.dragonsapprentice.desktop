@@ -1,8 +1,8 @@
 [Desktop Entry]
-Name=Dragon's Apprentice
+Name=Dragon’s Apprentice
 Comment=Explore the amazing world of Ovun
 Exec=com.endlessnetwork.dragonsapprentice.sh
 Icon=com.endlessnetwork.dragonsapprentice
 Terminal=false
 Type=Application
-Categories=Game;LearnToCode;
+Categories=Game;Education;

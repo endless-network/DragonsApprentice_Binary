@@ -7,7 +7,7 @@
   </developer>
   <summary>An RPG-like puzzle-solving dungeon-crawling game, and more!</summary>
   <metadata_license>CC0-1.0</metadata_license>
-  <project_license>LicenseRef-proprietary</project_license>
+  <project_license>LicenseRef-proprietary=https://github.com/endless-network/DragonsApprentice_Binary/raw/refs/heads/master/LICENSE</project_license>
   <categories>
     <category>Game</category>
     <category>Education</category>
